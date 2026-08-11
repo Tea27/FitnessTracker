@@ -1,0 +1,375 @@
+<resources>
+    <string name="exercises_title">Vježbe</string>
+    <string name="routines_title">Rutine</string>
+    <string name="profile_title">Profil</string>
+    <string name="home_title">Početna</string>
+    <string name="edit_physical_data">Uredite fizičke podatke</string>
+    <string name="view_past_goals">Pogledajte svoje prethodne ciljeve</string>
+    <string name="tracked_calories">Vaše evidentirane kalorije</string>
+    <string name="your_current_goal">Vaš trenutni cilj</string>
+    <string name="aim_to_reduce_weight">Cilj je smanjiti težinu na %1$.1f kg u roku od %2$d tjedana</string>
+    <string name="gain_muscle_mass">Cilj je povećati mišićnu masu na %1$.1f kg u roku od %2$d tjedana</string>
+    <string name="complete_workouts_weekly">Završite %1$s treninga tjedno</string>
+    <string name="no_goal_set">Cilj nije postavljen</string>
+    <string name="goal_congratulations">🎉 Čestitamo na ispunjenju cilja za ovaj tjedan!</string>
+    <string name="no_goal_description">Nemate postavljen cilj. Dodirnite botun ispod kako biste postavili osobni cilj.</string>
+    <string name="set_your_goal">Postavite svoj cilj</string>
+    <string name="no_goal">Bez cilja</string>
+    <string name="target_weight">Ciljana težina</string>
+    <string name="current_weight">Trenutna težina</string>
+    <string name="remaining">Preostalo</string>
+    <string name="this_week_workouts">Treninzi ovog tjedna</string>
+    <string name="remaining_this_week">Preostalo ovaj tjedan</string>
+    <string name="change_goal">Promijenite svoj cilj</string>
+    <string name="track_calories">Evidentirajte kalorije</string>
+    <string name="workout_subtitle">Započnite svoj dan uz personalizirani program vježbanja.</string>
+    <string name="no_routine_subtitle">Jeste li spremni za aktivnost? Izradite vlastitu rutinu i započnite s vježbanjem.</string>
+    <string name="ai_meal_plan_title">Personalizirani AI plan prehrane</string>
+    <string name="ai_meal_plan_description">Vaš AI asistent spreman je kreirati jedinstven plan prehrane, prilagođen Vašim ciljevima i potrebama.</string>
+    <string name="make_plan">Izradi plan</string>
+    <string name="meal_plan_title">Prehrana</string>
+    <string name="templates">Predlošci</string>
+    <string name="my_routines">Moje rutine</string>
+    <string name="filter_todo">Za napraviti</string>
+    <string name="filter_completed">Dovršeno</string>
+    <string name="equipment">Oprema</string>
+    <string name="target">Cilj</string>
+    <string name="body_part">Dio tijela</string>
+    <string name="instructions">Upute:</string>
+    <string name="no_instructions">Nema dostupnih uputa.</string>
+    <string name="search_hint">Pretraži vježbe…</string>
+    <string name="no_results">🔍 nema rezultata za \"%1$s\"</string>
+    <string name="no_more_exercises">🎉 Nema više vježbi za prikaz</string>
+    <string name="language">Jezik</string>
+    <string name="logout">Odjava</string>
+    <string name="user_settings">Korisničke postavke</string>
+    <string name="label_reps">Ponavljanja</string>
+    <string name="change_password">Promijeni lozinku</string>
+    <string name="confirm_new_password">Potvrdite novu lozinku</string>
+    <string name="new_password">Nova lozinka</string>
+    <string name="current_password">Trenutna lozinka</string>
+    <string name="password_change_success">Lozinka je uspješno promijenjena.</string>
+    <string name="password_changed_title">Lozinka je promijenjena</string>
+
+    <string name="set_your_fitness_goal">Postavite svoj fitness cilj</string>
+    <string name="select_your_goal">Odaberite svoj cilj:</string>
+    <string name="workout_frequency_label">Broj treninga tjedno</string>
+    <string name="current_weight_label">Trenutna težina (kg)</string>
+    <string name="target_weight_label">Ciljana težina (kg)</string>
+    <string name="time_period_label">Razdoblje (u tjednima)</string>
+    <string name="save_goal">Spremi cilj</string>
+    <string name="goal_muscle_gain">Dobivanje mišićne mase</string>
+    <string name="goal_weight_loss">Gubitak težine (npr. izgubiti 5 kg)</string>
+    <string name="goal_workout_count">Učestalost treninga (npr. 12 treninga/tjedno)</string>
+    <string name="select_goal_placeholder">Odaberi cilj</string>
+    <string name="title_previous_goals">Prethodni ciljevi</string>
+    <string name="empty_goals_title">Nema postavljenih ciljeva</string>
+    <string name="empty_goals_subtitle">Kad postaviš cilj, prikazat će se ovdje.</string>
+    <string name="dialog_delete_goal_title">Obriši cilj</string>
+    <string name="dialog_delete_goal_message">Jesi li siguran da želiš obrisati ovaj cilj? Ova radnja je nepovratna.</string>
+    <string name="action_delete">Obriši</string>
+    <string name="action_cancel">Odustani</string>
+    <string name="goal_target_label">Cilj: %1$s kg</string>
+    <string name="goal_target_workouts_label">Cilj : %1$d treninga tjedno</string>
+    <string name="goal_completed_label">Dovršeno: %1$s</string>
+    <string name="goal_date_label">Datum: %1$s</string>
+    <string name="yes">✅ Da</string>
+    <string name="no">❌ Ne</string>
+
+    <string name="calories_overview_title">Pregled kalorija</string>
+    <string name="add_calorie_entry">Dodaj unos kalorija</string>
+    <string name="delete_entry_title">Izbriši unos</string>
+    <string name="delete_entry_message">Jeste li sigurni da želite izbrisati ovaj unos kalorija?</string>
+    <string name="empty_state_message">Još nema unosa kalorija.\nZapočni praćenje kalorija danas!</string>
+
+    <string name="error_enter_current_weight">Unesite svoju trenutnu težinu.</string>
+    <string name="error_valid_target_weight">Unesite valjanu ciljanu težinu.</string>
+    <string name="error_valid_weeks">Unesite valjano razdoblje u tjednima.</string>
+    <string name="error_weeks_range">Razdoblje mora biti između 1 i 52 tjedna.</string>
+    <string name="error_target_less_than_current">Ciljana težina mora biti manja od trenutne.</string>
+    <string name="error_weight_loss_too_fast">Prebrz gubitak težine! Maks. 0.5 kg po tjednu.</string>
+    <string name="error_target_greater_than_current">Ciljana težina mora biti veća od trenutne.</string>
+    <string name="error_weight_gain_too_fast">Prebrzo dobivanje težine! Maks. 0.3 kg po tjednu.</string>
+    <string name="error_valid_workout_frequency">Unesite valjan broj treninga.</string>
+    <string name="error_workout_range">Broj treninga mora biti između 1 i 30 tjedno.</string>
+    <string name="register_title">Krenimo!</string>
+    <string name="register_subtitle">Registriraj se i započni svoju fitness priču 🏃‍♂️✨</string>
+    <string name="first_name">Ime</string>
+    <string name="last_name">Prezime</string>
+    <string name="register_button">Registracija</string>
+    <string name="already_have_account">Već imaš račun? Prijavi se</string>
+    <string name="first_name_required">Ime je obavezno</string>
+    <string name="last_name_required">Prezime je obavezno</string>
+    <string name="email_required">Unesi valjanu e-mail adresu</string>
+    <string name="password_too_short">Lozinka mora imati barem 6 znakova</string>
+    <string name="passwords_do_not_match">Lozinke se ne podudaraju</string>
+
+    <string name="filter_and_sort">Filtriraj i sortiraj</string>
+    <string name="close">Zatvori</string>
+    <string name="filter_by_date">Filtriraj po datumu</string>
+    <string name="from">Od</string>
+    <string name="to">Do</string>
+    <string name="date_format">dd.MM.yyyy</string>
+    <string name="clear_date_description">Obriši datum %1$s</string>
+
+    <string name="sort_newest_first_desc">Sortiraj: Najnovije prvo</string>
+    <string name="sort_oldest_first_desc">Sortiraj: Najstarije prvo</string>
+    <string name="sort_newest_first">Najnovije prvo</string>
+    <string name="sort_oldest_first">Najstarije prvo</string>
+
+    <string name="routine_delete_title">Izbriši rutinu?</string>
+    <string name="routine_delete_message">Jeste li sigurni da želite izbrisati ovu rutinu?</string>
+    <string name="routine_delete_yes">Da</string>
+    <string name="routine_delete_no">Ne</string>
+    <string name="button_repeat">Ponovi</string>
+    <string name="button_edit">Uredi</string>
+    <string name="button_start">Pokreni</string>
+    <string name="button_add_to_my_routine">Dodaj u moje rutine</string>
+    <string name="label_estimated_duration">Procijenjeno trajanje</string>
+    <string name="label_duration">Trajanje</string>
+    <string name="label_day">Dan</string>
+    <string name="label_performed_duration">Izvršeno trajanje</string>
+    <string name="label_finished_at">Završeno u</string>
+    <string name="label_exercises_completed">Vježbe završene</string>
+    <string name="label_status">Status</string>
+    <string name="status_completed">Završeno</string>
+    <string name="rest_after_set">Odmor nakon seta: %1$d sek</string>
+    <string name="done_done">%1$d / %2$d odrađeno</string>
+    <string name="label_done">završeno</string>
+    <string name="set_x_repeat">Set %1$d (x%2$d)</string>
+
+    <string name="edit_routine">Uredi rutinu</string>
+    <string name="routine_name">Naziv rutine</string>
+    <string name="name_empty_error">Naziv ne smije biti prazan</string>
+    <string name="duration_minutes">Trajanje (min)</string>
+    <string name="duration_error">Trajanje mora biti > 0</string>
+    <string name="select_day">Odaberi dan</string>
+    <string name="description">Opis</string>
+    <string name="set_x">Set %1$d</string> <!-- ili Serija %1$d -->
+    <string name="repeat">Ponavljanja</string>
+    <string name="rest_after_sec">Odmor nakon (sek)</string>
+    <string name="repeat_or_rest_error">Set mora imati ponavljanje > 0 ili vrijeme odmora > 0</string>
+    <string name="exercises">Vježbe</string>
+    <string name="add_exercise">Dodaj vježbu</string>
+    <string name="move_set_up">Pomakni set gore</string>
+    <string name="move_set_down">Pomakni set dolje</string>
+    <string name="delete_set">Obriši set</string>
+    <string name="move_exercise_up">Pomakni vježbu gore</string>
+    <string name="move_exercise_down">Pomakni vježbu dolje</string>
+    <string name="delete_exercise">Obriši vježbu</string>
+    <string name="duration_sec">Trajanje (sek)</string>
+    <string name="reps_or_duration_error">Unesite ponavljanja ili trajanje > 0</string>
+    <string name="add_set">Dodaj set</string>
+    <string name="repeat_count">Broj ponavljanja</string>
+
+    <string name="day_monday">Ponedjeljak</string>
+    <string name="day_tuesday">Utorak</string>
+    <string name="day_wednesday">Srijeda</string>
+    <string name="day_thursday">Četvrtak</string>
+    <string name="day_friday">Petak</string>
+    <string name="day_saturday">Subota</string>
+    <string name="day_sunday">Nedjelja</string>
+
+    <string name="congratulations">Čestitamo!</string>
+    <string name="workout_completed">Završili ste svoj trening 🎉</string>
+    <string name="finish">Završi</string>
+
+    <string name="rest_with_seconds">Odmor: %1$d sek</string>
+    <string name="skip_rest">Preskoči odmor</string>
+    <string name="set_and_exercise_progress">Serija %1$d/%2$d - Vježba %3$d/%4$d</string>
+    <string name="reps">Ponavljanja: %1$d</string>
+    <string name="duration_seconds">Trajanje: %1$d sek</string>
+    <string name="next">Dalje</string>
+    <string name="skip_exercise">Preskoči vježbu</string>
+
+    <string name="training_today">Imate zakazan trening za danas</string>
+    <string name="no_training_today">Danas nemate zakazanih treninga</string>
+    <string name="make_your_routine">Napravite svoju rutinu</string>
+    <string name="explore_templates">Istražite predloške</string>
+    <string name="weekly_progress">Vaši tjedni ciljevi i uspjesi</string>
+    <string name="monthly_progress">Vaši mjesečni ciljevi i postignuća</string>
+    <string name="notif_permission_denied">Dopuštenje za obavijesti je odbijeno. Neke funkcionalnosti možda neće raditi.</string>
+    <string name="daily_training_reminder">Imate %1$d trening(a) zakazanih za danas!</string>
+
+    <string name="welcome_back">Hej, dobrodošao natrag!</string>
+    <string name="keep_progress">Nastavimo s tim napretkom 💪</string>
+    <string name="email">E-mail</string>
+    <string name="password">Lozinka</string>
+    <string name="login">Prijava</string>
+    <string name="no_account_register">Nemaš račun? Registriraj se</string>
+    <string name="fill_email_password">Ispuni i e-mail i lozinku.</string>
+
+    <string name="meal_plan_screen_title">Moji planovi obroka</string>
+    <string name="meal_plan_filter_button_description">Filtriraj po datumu</string>
+    <string name="meal_plan_add_button_description">Dodaj plan obroka</string>
+    <string name="meal_plan_empty_message">Nema pronađenih planova obroka.</string>
+    <string name="meal_plan_total_meals_label">Ukupno obroka</string>
+    <string name="meal_plan_total_calories_label">Ukupno kalorija</string>
+    <string name="meal_plan_filter_sheet_title">Filtriraj po datumu</string>
+    <string name="action_close">Zatvori</string>
+    <string name="meal_plan_filter_start_date">Početni datum</string>
+    <string name="meal_plan_filter_end_date">Završni datum</string>
+    <string name="meal_plan_filter_apply_button">Primijeni filter</string>
+    <string name="meal_plan_filter_clear_button">Očisti filtre</string>
+    <string name="meal_plan_single_date_label">Datum</string>
+    <string name="meal_plan_date_range_start_label">Početni datum</string>
+    <string name="meal_plan_date_range_end_label">Završni datum</string>
+
+    <string name="meal_plan_detail_screen_title">Detalji plana obroka</string>
+    <string name="meal_plan_download_button">Preuzmi</string>
+    <string name="meal_plan_delete_button">Izbriši</string>
+    <string name="meal_plan_delete_dialog_title">Potvrdi brisanje</string>
+    <string name="meal_plan_delete_dialog_message">Jeste li sigurni da želite izbrisati ovaj plan obroka?</string>
+    <string name="meal_plan_delete_dialog_confirm">Da</string>
+    <string name="meal_plan_delete_dialog_dismiss">Ne</string>
+    <string name="meal_plan_not_found_message">Plan obroka nije pronađen.</string>
+
+    <string name="meal_plan_single_screen_title">Plan obroka</string>
+    <string name="meal_plan_save_button">Spremi</string>
+    <string name="meal_plan_discard_button">Odbaci</string>
+    <string name="meal_plan_for_period">Plan obroka za razdoblje</string>
+    <string name="meal_plan_loading">Učitavanje plana… molimo pričekajte…</string>
+    <string name="meal_plan_no_data">Nema dostupnih podataka. Pokušajte ponovno kasnije.</string>
+
+    <string name="meal_ingredients_label">📝 Sastojci: %1$s</string>
+    <string name="meal_instructions_label">👨‍🍳 Upute: %1$s</string>
+    <string name="meal_calories_label">🔥 Kalorije: %1$s kcal</string>
+    <string name="meal_prep_time_label">⏱ Vrijeme pripreme: %1$s</string>
+
+    <string name="save_workout_goal">Spremi cilj vježbanja</string>
+    <string name="save_weight_loss_goal">Spremi cilj mršavljenja</string>
+    <string name="save_muscle_gain_goal">Spremi cilj dobivanja mišićne mase</string>
+
+    <string name="your_goal_summary">Tvoj cilj</string>
+    <string name="per_week">puta tjedno</string>
+
+    <string name="time_period_info_title">Što je vremensko razdoblje?</string>
+    <string name="time_period_info_description">
+    Odaberite koliko tjedana želite da traje Vaš cilj. Preporučujemo realističan i održiv tempo.
+    </string>
+
+    <string name="got_it">Razumijem</string>
+
+    <!-- Section titles -->
+    <string name="section_goal_title">Odaberite svoj cilj</string>
+    <string name="section_diet_title">Prehrambene preferencije</string>
+    <string name="section_allergies_title">Alergije / Intolerancije</string>
+    <string name="section_meal_frequency_title">Obroci dnevno</string>
+    <string name="section_protein_source_title">Preferirani izvori proteina</string>
+    <string name="section_prep_difficulty_title">Težina pripreme obroka</string>
+    <string name="section_prep_time_title">Preferirano vrijeme pripreme</string>
+    <string name="section_additional_requirements_title">Dodatni zahtjevi</string>
+
+    <!-- Section descriptions -->
+    <string name="section_goal_description">Odaberite svoj primarni fitness cilj za prilagodbu plana prehrane.</string>
+    <string name="section_diet_description">Odaberite svoje prehrambene preferencije ili ograničenja.</string>
+    <string name="section_allergies_description">Izbjegavajte sastojke na koje ste alergični ili intolerantni.</string>
+    <string name="section_meal_frequency_description">Odaberite koliko obroka želite dnevno.</string>
+    <string name="section_protein_source_description">Odaberite željene izvore proteina.</string>
+    <string name="section_prep_difficulty_description">Odaberite koliko teška želite pripremu obroka.</string>
+    <string name="section_prep_time_description">Odaberite željeno vrijeme kuhanja po obroku.</string>
+    <string name="section_additional_requirements_description">Imaš li dodatne preference ili ograničenja?</string>
+
+    <!-- Goal options -->
+    <string name="goal_lose_weight">Izgubiti težinu</string>
+    <string name="goal_build_muscle">Izgraditi mišiće</string>
+    <string name="goal_increase_protein">Povećati unos proteina</string>
+    <string name="goal_maintain_weight">Održavati težinu</string>
+    <string name="goal_improve_endurance">Poboljšati izdržljivost</string>
+
+    <!-- Diet options -->
+    <string name="diet_vegan">Veganski</string>
+    <string name="diet_vegetarian">Vegetarijanski</string>
+    <string name="diet_pescatarian">Riba, bez mesa</string>
+    <string name="diet_keto">Ketogeni</string>
+    <string name="diet_low_carb">Niskougljikohidratni</string>
+    <string name="diet_gluten_free">Bez glutena</string>
+    <string name="diet_dairy_free">Bez mliječnih proizvoda</string>
+
+    <!-- Allergy options -->
+    <string name="allergy_nuts">Orašasti plodovi</string>
+    <string name="allergy_gluten">Gluten</string>
+    <string name="allergy_dairy">Mliječni proizvodi</string>
+    <string name="allergy_soy">Soja</string>
+    <string name="allergy_shellfish">Plodovi mora</string>
+    <string name="allergy_eggs">Jaja</string>
+
+    <!-- Meal frequency options -->
+    <string name="meal_frequency_3_meals">3 obroka</string>
+    <string name="meal_frequency_4_meals">4 obroka</string>
+    <string name="meal_frequency_5_meals">5 obroka</string>
+    <string name="meal_frequency_6_meals">6 obroka</string>
+
+    <!-- Protein source options -->
+    <string name="protein_source_plant_based">Biljni izvori</string>
+    <string name="protein_source_animal_based">Životinjski izvori</string>
+    <string name="protein_source_mixed">Mješovito</string>
+
+    <!-- Prep difficulty options -->
+    <string name="prep_difficulty_easy">Jednostavno</string>
+    <string name="prep_difficulty_moderate">Umjereno</string>
+    <string name="prep_difficulty_advanced">Napredno</string>
+
+    <!-- Prep time options -->
+    <string name="prep_time_under_15">Manje od 15 minuta</string>
+    <string name="prep_time_15_to_30">15–30 minuta</string>
+    <string name="prep_time_30_to_60">30–60 minuta</string>
+    <string name="prep_time_over_60">Više od 60 minuta</string>
+
+    <!-- Additional requirements options -->
+    <string name="additional_low_sodium">Nisko natrijski</string>
+    <string name="additional_high_fiber">Visoka vlakna</string>
+    <string name="additional_low_sugar">Nisko šećerni</string>
+    <string name="additional_organic">Organski sastojci</string>
+    <string name="additional_budget_friendly">Povoljno za budžet</string>
+
+    <!-- Buttons -->
+    <string name="button_back">Natrag</string>
+    <string name="button_next">Dalje</string>
+    <string name="button_generate_meal_plan">Generiraj</string>
+
+    <string name="meal_plan_setup">Postavljanje plana prehrane</string>
+    <string name="generating_meal_plan_short">Molimo pričekajte dok generiramo vaš plan prehrane…</string>
+    <string name="generating_meal_plan_detailed">Vaš AI osobni asistent izrađuje personalizirani plan prehrane samo za vas…</string>
+
+    <string name="track_calories_title">Praćenje kalorija</string>
+    <string name="track_calories_header">Zabilježi kalorije kako bi ostao na pravom putu! 🔥</string>
+    <string name="calories_label">Kalorije</string>
+    <string name="calories_zero_error">Kalorije moraju biti veće od 0.</string>
+    <string name="calories_invalid_error">Unesi ispravan broj.</string>
+    <string name="save_entry">Spremi unos</string>
+    <string name="average_burn_tip">Savjet: Prosječna odrasla osoba potroši ~2.000–2.500 kcal/dan. Prati unos svaki dan kako bi vidio trendove!</string>
+    <string name="future_date_error">Ne možeš odabrati datum u budućnosti.</string>
+    <string name="calorie_input_error">Unesi broj veći od 0.</string>
+    <string name="save_error_prefix">Greška: </string>
+
+    <string name="bmi_not_available">BMI nije dostupan</string>
+    <string name="complete_profile">Dovršite profil</string>
+    <string name="bmi_info">Što je BMI?</string>
+    <string name="bmi_explanation">BMI označava indeks tjelesne mase. To je izračun koji koristi tvoju visinu i težinu za procjenu tjelesne masti te daje opću indikaciju je li tvoja težina zdrava za tvoju visinu. BMI se često koristi kao alat za otkrivanje mogućih zdravstvenih rizika povezanih s težinom.</string>
+    <string name="bmi_categories">BMI kategorije</string>
+    <string name="underweight">Pothranjenost</string>
+    <string name="normal_weight">Normalna težina</string>
+    <string name="overweight">Prekomjerna težina</string>
+    <string name="obesity">Pretilost</string>
+    <string name="please_complete_profile">Molimo dovršite svoj profil kako bi izračunali BMI.</string>
+    <string name="your_bmi">Vaš BMI</string>
+    <string name="bmi_below_18_5">Ispod 18,5</string>
+    <string name="bmi_30_and_above">30 i više</string>
+    <string-array name="month_names_nominative">
+        <item>Siječanj</item>
+        <item>Veljača</item>
+        <item>Ožujak</item>
+        <item>Travanj</item>
+        <item>Svibanj</item>
+        <item>Lipanj</item>
+        <item>Srpanj</item>
+        <item>Kolovoz</item>
+        <item>Rujan</item>
+        <item>Listopad</item>
+        <item>Studeni</item>
+        <item>Prosinac</item>
+    </string-array>
+
+    <string name="validation_error_snackbar">Molimo popunite sva potrebna polja: naziv, dan, trajanje, setove s ponavljanjem/odmorom i vježbe s ponavljanjima ili trajanjem.</string>
+</resources>

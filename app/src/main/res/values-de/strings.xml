@@ -1,0 +1,375 @@
+<resources>
+    <string name="exercises_title">Übungen</string>
+    <string name="routines_title">Routinen</string>
+    <string name="profile_title">Profil</string>
+    <string name="home_title">Startseite</string>
+    <string name="edit_physical_data">Bearbeiten Sie Ihre körperlichen Daten</string>
+    <string name="view_past_goals">Sehen Sie sich Ihre bisherigen Ziele an</string>
+    <string name="tracked_calories">Ihre erfassten Kalorien</string>
+    <string name="your_current_goal">Ihr aktuelles Ziel</string>
+    <string name="aim_to_reduce_weight">Ziel ist es, das Gewicht auf %1$.1f kg innerhalb von %2$d Wochen zu reduzieren</string>
+    <string name="gain_muscle_mass">Ziel ist es, Muskelmasse auf %1$.1f kg innerhalb von %2$d Wochen aufzubauen</string>
+    <string name="complete_workouts_weekly">Schließe %1$s Trainingseinheiten pro Woche ab</string>
+    <string name="no_goal_set">Kein Ziel gesetzt</string>
+    <string name="goal_congratulations">🎉 Glückwunsch zum Erreichen deines Ziels in dieser Woche!</string>
+    <string name="no_goal_description">Du hast noch kein Ziel gesetzt. Tippe unten, um dein persönliches Ziel zu erstellen.</string>
+    <string name="set_your_goal">Ziel festlegen</string>
+    <string name="no_goal">Kein Ziel</string>
+    <string name="target_weight">Zielgewicht</string>
+    <string name="current_weight">Aktuelles Gewicht</string>
+    <string name="remaining">Verbleibend</string>
+    <string name="this_week_workouts">Workouts dieser Woche</string>
+    <string name="remaining_this_week">Verbleibend diese Woche</string>
+    <string name="change_goal">Ziel ändern</string>
+    <string name="track_calories">Kalorien erfassen</string>
+    <string name="workout_subtitle">Starte deinen Tag mit einem personalisierten Workout.</string>
+    <string name="no_routine_subtitle">Bereit für Bewegung? Erstelle deine Routine und leg los!</string>
+    <string name="ai_meal_plan_title">Personalisierter KI-Ernährungsplan</string>
+    <string name="ai_meal_plan_description">Lass deinen KI-Assistenten einen individuellen Ernährungsplan für deine Fitnessziele erstellen.</string>
+    <string name="make_plan">Plan erstellen</string>
+    <string name="meal_plan_title">Ernährung</string>
+    <string name="templates">Vorlagen</string>
+    <string name="my_routines">Meine Routinen</string>
+    <string name="filter_todo">Zu erledigen</string>
+    <string name="filter_completed">Abgeschlossen</string>
+    <string name="equipment">Ausrüstung</string>
+    <string name="target">Zielmuskel</string>
+    <string name="body_part">Körperteil</string>
+    <string name="instructions">Anweisungen:</string>
+    <string name="no_instructions">Keine Anweisungen verfügbar.</string>
+    <string name="search_hint">Übungen suchen…</string>
+    <string name="no_results">🔍 keine Ergebnisse für \"%1$s\"</string>
+    <string name="no_more_exercises">🎉 Keine weiteren Übungen zum Anzeigen</string>
+    <string name="language">Sprache</string>
+    <string name="logout">Abmelden</string>
+    <string name="user_settings">Benutzereinstellungen</string>
+    <string name="label_reps">Wiederholungen</string>
+    <string name="change_password">Passwort ändern</string>
+    <string name="confirm_new_password">Neue Passwort bestätigen</string>
+    <string name="new_password">Neues Passwort</string>
+    <string name="current_password">Aktuelles Passwort</string>
+    <string name="password_change_success">Dein Passwort wurde erfolgreich geändert.</string>
+    <string name="password_changed_title">Passwort geändert</string>
+
+    <string name="set_your_fitness_goal">Dein Fitnessziel festlegen</string>
+    <string name="select_your_goal">Wähle dein Ziel:</string>
+    <string name="workout_frequency_label">Trainingseinheiten pro Woche</string>
+    <string name="current_weight_label">Aktuelles Gewicht (kg)</string>
+    <string name="target_weight_label">Zielgewicht (kg)</string>
+    <string name="time_period_label">Zeitraum (Wochen)</string>
+    <string name="save_goal">Ziel speichern</string>
+
+    <string name="error_enter_current_weight">Bitte gib dein aktuelles Gewicht ein.</string>
+    <string name="error_valid_target_weight">Bitte gib ein gültiges Zielgewicht ein.</string>
+    <string name="error_valid_weeks">Bitte gib einen gültigen Zeitraum in Wochen ein.</string>
+    <string name="error_weeks_range">Zeitraum muss zwischen 1 und 52 Wochen liegen.</string>
+    <string name="error_target_less_than_current">Zielgewicht muss kleiner als aktuelles Gewicht sein.</string>
+    <string name="error_weight_loss_too_fast">Zu schneller Gewichtsverlust! Max. 0,5 kg pro Woche.</string>
+    <string name="error_target_greater_than_current">Zielgewicht muss größer als aktuelles Gewicht sein.</string>
+    <string name="error_weight_gain_too_fast">Zu schneller Gewichtszuwachs! Max. 0,3 kg pro Woche.</string>
+    <string name="error_valid_workout_frequency">Bitte gib eine gültige Trainingshäufigkeit ein.</string>
+    <string name="error_workout_range">Trainingshäufigkeit muss zwischen 1 und 30 pro Woche liegen.</string>
+    <string name="goal_muscle_gain">Muskelmasse aufbauen</string>
+    <string name="goal_weight_loss">Gewichtsverlust (z. B. 5 kg abnehmen)</string>
+    <string name="goal_workout_count">Trainingshäufigkeit (z. B. 12 Einheiten/Woche)</string>
+    <string name="select_goal_placeholder">Ziel auswählen</string>
+    <string name="title_previous_goals">Frühere Ziele</string>
+    <string name="empty_goals_title">Keine früheren Ziele</string>
+    <string name="empty_goals_subtitle">Sobald du ein Ziel festgelegt hast, erscheint es hier.</string>
+    <string name="dialog_delete_goal_title">Ziel löschen</string>
+    <string name="dialog_delete_goal_message">Bist du sicher, dass du dieses Ziel löschen möchtest? Diese Aktion kann nicht rückgängig gemacht werden.</string>
+    <string name="action_delete">Löschen</string>
+    <string name="action_cancel">Abbrechen</string>
+    <string name="goal_target_label">Ziel: %1$s kg</string>
+    <string name="goal_target_workouts_label">Target: %1$d workouts per week</string>
+    <string name="goal_completed_label">Abgeschlossen: %1$s</string>
+    <string name="goal_date_label">Datum: %1$s</string>
+    <string name="yes">✅ Ja</string>
+    <string name="no">❌ Nein</string>
+    <string name="calories_overview_title">Kalorienübersicht</string>
+    <string name="add_calorie_entry">Kalorien-Eintrag hinzufügen</string>
+    <string name="delete_entry_title">Eintrag löschen</string>
+    <string name="delete_entry_message">Möchten Sie diesen Kalorien-Eintrag wirklich löschen?</string>
+    <string name="empty_state_message">Noch keine Kalorien-Einträge.\nBeginnen Sie noch heute mit dem Kalorien-Tracking!</string>
+
+
+    <string name="filter_and_sort">Filter &amp; Sortieren</string>
+    <string name="close">Schließen</string>
+    <string name="filter_by_date">Nach Datum filtern</string>
+    <string name="from">Von</string>
+    <string name="to">Bis</string>
+    <string name="date_format">dd.MM.yyyy</string>
+    <string name="clear_date_description">%1$s-Datum löschen</string>
+
+    <string name="sort_newest_first_desc">Sortieren: Neueste zuerst</string>
+    <string name="sort_oldest_first_desc">Sortieren: Älteste zuerst</string>
+    <string name="sort_newest_first">Neueste zuerst</string>
+    <string name="sort_oldest_first">Älteste zuerst</string>
+
+    <string name="routine_delete_title">Routine löschen?</string>
+    <string name="routine_delete_message">Sind Sie sicher, dass Sie diese Routine löschen möchten?</string>
+    <string name="routine_delete_yes">Ja</string>
+    <string name="routine_delete_no">Nein</string>
+    <string name="button_repeat">Wiederholen</string>
+    <string name="button_edit">Bearbeiten</string>
+    <string name="button_start">Starten</string>
+    <string name="button_add_to_my_routine">Zu meiner Routine hinzufügen</string>
+    <string name="label_estimated_duration">Geschätzte Dauer</string>
+    <string name="label_duration">Dauer</string>
+    <string name="label_day">Tag</string>
+    <string name="label_performed_duration">Ausgeführte Dauer</string>
+    <string name="label_finished_at">Beendet am</string>
+    <string name="label_exercises_completed">Abgeschlossene Übungen</string>
+    <string name="label_status">Status</string>
+    <string name="status_completed">Abgeschlossen</string>
+    <string name="rest_after_set">Pause nach Satz: %1$d Sek</string>
+    <string name="done_done">%1$d / %2$d erledigt</string>
+    <string name="label_done">erledigt</string>
+    <string name="set_x_repeat">Satz %1$d (x%2$d)</string>
+
+    <string name="edit_routine">Routine bearbeiten</string>
+    <string name="routine_name">Name der Routine</string>
+    <string name="name_empty_error">Name darf nicht leer sein</string>
+    <string name="duration_minutes">Dauer (Min)</string>
+    <string name="duration_error">Dauer muss > 0 sein</string>
+    <string name="select_day">Tag auswählen</string>
+    <string name="description">Beschreibung</string>
+    <string name="set_x">Satz %1$d</string>
+    <string name="repeat">Wiederholungen</string>
+    <string name="rest_after_sec">Pause nach (Sek)</string>
+    <string name="repeat_or_rest_error">Satz muss Wiederholungen > 0 oder Pausenzeit > 0 haben</string>
+    <string name="exercises">Übungen</string>
+    <string name="add_exercise">Übung hinzufügen</string>
+    <string name="move_set_up">Satz nach oben verschieben</string>
+    <string name="move_set_down">Satz nach unten verschieben</string>
+    <string name="delete_set">Satz löschen</string>
+    <string name="move_exercise_up">Übung nach oben verschieben</string>
+    <string name="move_exercise_down">Übung nach unten verschieben</string>
+    <string name="delete_exercise">Übung löschen</string>
+    <string name="duration_sec">Dauer (Sek)</string>
+    <string name="reps_or_duration_error">Geben Sie Wiederholungen oder Dauer > 0 ein</string>
+    <string name="add_set">Satz hinzufügen</string>
+    <string name="repeat_count">Wiederholungsanzahl</string>
+
+    <string name="day_monday">Montag</string>
+    <string name="day_tuesday">Dienstag</string>
+    <string name="day_wednesday">Mittwoch</string>
+    <string name="day_thursday">Donnerstag</string>
+    <string name="day_friday">Freitag</string>
+    <string name="day_saturday">Samstag</string>
+    <string name="day_sunday">Sonntag</string>
+
+    <string name="congratulations">Herzlichen Glückwunsch!</string>
+    <string name="workout_completed">Du hast dein Training abgeschlossen 🎉</string>
+    <string name="finish">Fertig</string>
+
+    <string name="rest_with_seconds">Pause: %1$d Sek.</string>
+    <string name="skip_rest">Pause überspringen</string>
+    <string name="set_and_exercise_progress">Satz %1$d/%2$d - Übung %3$d/%4$d</string>
+    <string name="reps">Wiederholungen: %1$d</string>
+    <string name="duration_seconds">Dauer: %1$d Sek.</string>
+    <string name="next">Weiter</string>
+    <string name="skip_exercise">Übung überspringen</string>
+
+    <string name="training_today">Du hast heute ein Training geplant</string>
+    <string name="no_training_today">Du hast heute kein Training geplant</string>
+    <string name="make_your_routine">Erstelle deine Routine</string>
+    <string name="explore_templates">Vorlagen entdecken</string>
+    <string name="weekly_progress">Ihre wöchentlichen Meilensteine und Erfolge</string>
+    <string name="monthly_progress">Ihre monatlichen Meilensteine und Erfolge</string>
+    <string name="notif_permission_denied">Benachrichtigungsberechtigung verweigert. Einige Funktionen funktionieren möglicherweise nicht.</string>
+    <string name="daily_training_reminder">Du hast %1$d Training(s) für heute geplant!</string>
+
+    <string name="welcome_back">Hey, willkommen zurück!</string>
+    <string name="keep_progress">Lass uns so weitermachen 💪</string>
+    <string name="email">E-Mail</string>
+    <string name="password">Passwort</string>
+    <string name="login">Anmelden</string>
+    <string name="no_account_register">Kein Konto? Jetzt registrieren</string>
+    <string name="fill_email_password">Bitte E-Mail und Passwort eingeben.</string>
+
+    <string name="register_title">Los geht’s!</string>
+    <string name="register_subtitle">Melde dich an und starte deine Fitnessreise 🏃‍♂️✨</string>
+    <string name="first_name">Vorname</string>
+    <string name="last_name">Nachname</string>
+    <string name="register_button">Registrieren</string>
+    <string name="already_have_account">Schon ein Konto? Anmelden</string>
+    <string name="first_name_required">Vorname ist erforderlich</string>
+    <string name="last_name_required">Nachname ist erforderlich</string>
+    <string name="email_required">Gültige E-Mail ist erforderlich</string>
+    <string name="password_too_short">Passwort muss mindestens 6 Zeichen lang sein</string>
+    <string name="passwords_do_not_match">Passwörter stimmen nicht überein</string>
+
+    <string name="meal_plan_screen_title">Meine Ernährungspläne</string>
+    <string name="meal_plan_filter_button_description">Nach Datum filtern</string>
+    <string name="meal_plan_add_button_description">Ernährungsplan hinzufügen</string>
+    <string name="meal_plan_empty_message">Keine Ernährungspläne gefunden.</string>
+    <string name="meal_plan_total_meals_label">Gesamtanzahl Mahlzeiten</string>
+    <string name="meal_plan_total_calories_label">Gesamtkalorien</string>
+    <string name="meal_plan_filter_sheet_title">Nach Datum filtern</string>
+    <string name="action_close">Schließen</string>
+    <string name="meal_plan_filter_start_date">Startdatum</string>
+    <string name="meal_plan_filter_end_date">Enddatum</string>
+    <string name="meal_plan_filter_apply_button">Filter anwenden</string>
+    <string name="meal_plan_filter_clear_button">Filter löschen</string>
+    <string name="meal_plan_single_date_label">Datum</string>
+    <string name="meal_plan_date_range_start_label">Startdatum</string>
+    <string name="meal_plan_date_range_end_label">Enddatum</string>
+
+    <string name="meal_plan_detail_screen_title">Details des Ernährungsplans</string>
+    <string name="meal_plan_download_button">Herunterladen</string>
+    <string name="meal_plan_delete_button">Löschen</string>
+    <string name="meal_plan_delete_dialog_title">Löschen bestätigen</string>
+    <string name="meal_plan_delete_dialog_message">Möchten Sie diesen Ernährungsplan wirklich löschen?</string>
+    <string name="meal_plan_delete_dialog_confirm">Ja</string>
+    <string name="meal_plan_delete_dialog_dismiss">Nein</string>
+    <string name="meal_plan_not_found_message">Ernährungsplan nicht gefunden.</string>
+    <string name="meal_plan_single_screen_title">Ernährungsplan</string>
+    <string name="meal_plan_save_button">Speichern</string>
+    <string name="meal_plan_discard_button">Verwerfen</string>
+    <string name="meal_plan_for_period">Ernährungsplan für den Zeitraum</string>
+    <string name="meal_plan_loading">Plan wird geladen… bitte warten…</string>
+    <string name="meal_plan_no_data">Keine Daten verfügbar. Bitte versuchen Sie es später erneut.</string>
+
+    <string name="meal_ingredients_label">📝 Zutaten: %1$s</string>
+    <string name="meal_instructions_label">👨‍🍳 Anweisungen: %1$s</string>
+    <string name="meal_calories_label">🔥 Kalorien: %1$s kcal</string>
+    <string name="meal_prep_time_label">⏱ Zubereitungszeit: %1$s</string>
+
+    <string name="save_workout_goal">Trainingsziel speichern</string>
+    <string name="save_weight_loss_goal">Abnehmziel speichern</string>
+    <string name="save_muscle_gain_goal">Muskelaufbauziel speichern</string>
+
+    <string name="your_goal_summary">Dein Ziel</string>
+    <string name="per_week">Mal pro Woche</string>
+
+    <string name="time_period_info_title">Was ist der Zeitraum?</string>
+    <string name="time_period_info_description">
+    Wähle, wie viele Wochen dein Ziel dauern soll. Wir empfehlen ein realistisches und nachhaltiges Tempo.
+    </string>
+
+    <string name="got_it">Verstanden</string>
+
+    <!-- Section titles -->
+    <string name="section_goal_title">Wähle dein Ziel</string>
+    <string name="section_diet_title">Ernährungspräferenzen</string>
+    <string name="section_allergies_title">Allergien / Unverträglichkeiten</string>
+    <string name="section_meal_frequency_title">Mahlzeiten pro Tag</string>
+    <string name="section_protein_source_title">Bevorzugte Proteinquellen</string>
+    <string name="section_prep_difficulty_title">Schwierigkeitsgrad der Zubereitung</string>
+    <string name="section_prep_time_title">Bevorzugte Zubereitungszeit</string>
+    <string name="section_additional_requirements_title">Zusätzliche Anforderungen</string>
+
+    <!-- Section descriptions -->
+    <string name="section_goal_description">Wähle dein primäres Fitnessziel, um deinen Ernährungsplan anzupassen.</string>
+    <string name="section_diet_description">Wähle deine Ernährungspräferenzen oder Einschränkungen.</string>
+    <string name="section_allergies_description">Vermeide Zutaten, auf die du allergisch oder intolerant bist.</string>
+    <string name="section_meal_frequency_description">Wähle, wie viele Mahlzeiten du täglich möchtest.</string>
+    <string name="section_protein_source_description">Wähle deine bevorzugten Proteinquellen.</string>
+    <string name="section_prep_difficulty_description">Wähle, wie schwierig deine Mahlzeitenzubereitung sein soll.</string>
+    <string name="section_prep_time_description">Wähle deine bevorzugte Kochzeit pro Mahlzeit.</string>
+    <string name="section_additional_requirements_description">Hast du zusätzliche Präferenzen oder Einschränkungen?</string>
+
+    <!-- Goal options -->
+    <string name="goal_lose_weight">Abnehmen</string>
+    <string name="goal_build_muscle">Muskelaufbau</string>
+    <string name="goal_increase_protein">Proteinaufnahme erhöhen</string>
+    <string name="goal_maintain_weight">Gewicht halten</string>
+    <string name="goal_improve_endurance">Ausdauer verbessern</string>
+
+    <!-- Diet options -->
+    <string name="diet_vegan">Vegan</string>
+    <string name="diet_vegetarian">Vegetarisch</string>
+    <string name="diet_pescatarian">Pescetarisch</string>
+    <string name="diet_keto">Ketogen</string>
+    <string name="diet_low_carb">Kohlenhydratarm</string>
+    <string name="diet_gluten_free">Glutenfrei</string>
+    <string name="diet_dairy_free">Milchfrei</string>
+
+    <!-- Allergy options -->
+    <string name="allergy_nuts">Nüsse</string>
+    <string name="allergy_gluten">Gluten</string>
+    <string name="allergy_dairy">Milchprodukte</string>
+    <string name="allergy_soy">Soja</string>
+    <string name="allergy_shellfish">Schalentiere</string>
+    <string name="allergy_eggs">Eier</string>
+
+    <!-- Meal frequency options -->
+    <string name="meal_frequency_3_meals">3 Mahlzeiten</string>
+    <string name="meal_frequency_4_meals">4 Mahlzeiten</string>
+    <string name="meal_frequency_5_meals">5 Mahlzeiten</string>
+    <string name="meal_frequency_6_meals">6 Mahlzeiten</string>
+
+    <!-- Protein source options -->
+    <string name="protein_source_plant_based">Pflanzlich</string>
+    <string name="protein_source_animal_based">Tierisch</string>
+    <string name="protein_source_mixed">Gemischt</string>
+
+    <!-- Prep difficulty options -->
+    <string name="prep_difficulty_easy">Einfach</string>
+    <string name="prep_difficulty_moderate">Mittel</string>
+    <string name="prep_difficulty_advanced">Fortgeschritten</string>
+
+    <!-- Prep time options -->
+    <string name="prep_time_under_15">Unter 15 Minuten</string>
+    <string name="prep_time_15_to_30">15–30 Minuten</string>
+    <string name="prep_time_30_to_60">30–60 Minuten</string>
+    <string name="prep_time_over_60">Über 60 Minuten</string>
+
+    <!-- Additional requirements options -->
+    <string name="additional_low_sodium">Natriumarm</string>
+    <string name="additional_high_fiber">Ballaststoffreich</string>
+    <string name="additional_low_sugar">Zuckerarm</string>
+    <string name="additional_organic">Biologische Zutaten</string>
+    <string name="additional_budget_friendly">Budgetfreundlich</string>
+
+    <!-- Buttons -->
+    <string name="button_back">Zurück</string>
+    <string name="button_next">Weiter</string>
+    <string name="button_generate_meal_plan">Essensplan</string>
+
+    <string name="meal_plan_setup">Essensplan einrichten</string>
+    <string name="generating_meal_plan_short">Bitte warten Sie, während wir Ihren Essensplan erstellen…</string>
+    <string name="generating_meal_plan_detailed">Ihr KI-Assistent erstellt einen personalisierten Essensplan nur für Sie…</string>
+
+    <string name="track_calories_title">Kalorien verfolgen</string>
+    <string name="track_calories_header">Protokolliere deine Kalorien, um auf Kurs zu bleiben! 🔥</string>
+    <string name="calories_label">Kalorien</string>
+    <string name="calories_zero_error">Kalorien müssen größer als 0 sein.</string>
+    <string name="calories_invalid_error">Bitte gib eine gültige Zahl ein.</string>
+    <string name="save_entry">Eintrag speichern</string>
+    <string name="average_burn_tip">Tipp: Ein Erwachsener verbrennt durchschnittlich ~2.000–2.500 kcal/Tag. Verfolge deine Daten täglich, um Muster zu erkennen!</string>
+    <string name="future_date_error">Du kannst kein zukünftiges Datum auswählen.</string>
+    <string name="calorie_input_error">Bitte gib eine Zahl größer als 0 ein.</string>
+    <string name="save_error_prefix">Fehler: </string>
+
+    <string name="bmi_not_available">BMI nicht verfügbar</string>
+    <string name="complete_profile">Profil vervollständigen</string>
+    <string name="bmi_info">Was ist der BMI?</string>
+    <string name="bmi_explanation">BMI steht für Body-Maß-Index. Es ist eine Berechnung, die deine Größe und dein Gewicht verwendet, um den Körperfettanteil zu schätzen und anzugeben, ob dein Gewicht im Verhältnis zu deiner Größe gesund ist. Der BMI wird häufig als Screening-Werkzeug für potenzielle gesundheitsbezogene Risiken verwendet.</string>
+    <string name="bmi_categories">BMI-Kategorien</string>
+    <string name="underweight">Untergewicht</string>
+    <string name="normal_weight">Normalgewicht</string>
+    <string name="overweight">Übergewicht</string>
+    <string name="obesity">Fettleibigkeit</string>
+    <string name="please_complete_profile">Bitte vervollständige dein Profil, um den BMI zu berechnen.</string>
+    <string name="your_bmi">Dein BMI</string>
+    <string name="bmi_below_18_5">Unter 18,5</string>
+    <string name="bmi_30_and_above">30 und darüber</string>
+    <string-array name="month_names_nominative">
+        <item>Januar</item>
+        <item>Februar</item>
+        <item>März</item>
+        <item>April</item>
+        <item>Mai</item>
+        <item>Juni</item>
+        <item>Juli</item>
+        <item>August</item>
+        <item>September</item>
+        <item>Oktober</item>
+        <item>November</item>
+        <item>Dezember</item>
+    </string-array>
+
+    <string name="validation_error_snackbar">Bitte füllen Sie alle erforderlichen Felder aus: Name, Tag, Dauer, Sätze mit Wiederholungen/Pause und Übungen mit Wiederholungen oder Dauer.</string>
+</resources>
