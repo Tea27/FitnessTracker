@@ -21,40 +21,11 @@ FitnessTracker is a native Android application that brings workout planning, exe
 
 ## Screenshots
 
-<table>
-  <tr>
-    <td>
-      <img
-        src="docs/screenshots/profile.png"
-        alt="FitnessTracker profile and language settings"
-        width="80%"
-      />
-    </td>
-    <td>
-      <img
-        src="docs/screenshots/routine-template.png"
-        alt="Predefined workout routine details"
-        width="80%"
-      />
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img
-        src="docs/screenshots/workout-player.png"
-        alt="Guided workout player"
-        width="80%"
-      />
-    </td>
-    <td>
-      <img
-        src="docs/screenshots/meal-plan.png"
-        alt="Generated meal plan details"
-        width="80%"
-      />
-    </td>
-  </tr>
-</table>
+| **Profile and language settings** | **Predefined workout routine** |
+| :---: | :---: |
+| <img src="docs/screenshots/profile.png" alt="FitnessTracker profile and language settings" width="80%"> | <img src="docs/screenshots/routine-template.png" alt="Predefined workout routine details" width="80%"> |
+| **Guided workout player** | **Generated meal plan** |
+| <img src="docs/screenshots/workout-player.png" alt="Guided workout player" width="80%"> | <img src="docs/screenshots/meal-plan.png" alt="Generated meal plan details" width="80%"> |
 
 ## Architecture
 
