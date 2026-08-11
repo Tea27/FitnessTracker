@@ -179,6 +179,9 @@ Master's thesis in Applied Computing, University of Split, University Department
 
 The thesis describes the product requirements, technology choices, MVVM implementation, local and remote data synchronization, workout execution flow, localization, and AI-assisted meal-plan generation. The PDF and LaTeX source are maintained separately from the application repository.
 
+- [View the thesis repository](https://github.com/Tea27/FitnessTracker-Thesis)
+- [Read the thesis PDF](https://github.com/Tea27/FitnessTracker-Thesis/blob/main/basic_zavrsni.pdf)
+
 ## Author
 
 **Tea Bašić**
