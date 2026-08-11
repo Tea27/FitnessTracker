@@ -1,0 +1,69 @@
+# Android Studio / IntelliJ
+*.iml
+.idea/
+.vscode/
+*.code-workspace
+
+# Local machine configuration
+local.properties
+
+# Firebase configuration
+**/google-services.json
+
+# Environment and API configuration
+.env
+.env.*
+*.env
+*.env.*
+supabase.env
+secrets.properties
+
+# Signing and private keys
+*.keystore
+*.jks
+*.pem
+keystore.properties
+
+# Gradle and generated build output
+.gradle/
+**/build/
+.ksp/
+**/.ksp/
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Generated Android artifacts
+*.apk
+*.aab
+*.ap_
+*.dex
+*.class
+*.so
+
+# Logs and temporary files
+*.log
+*.hprof
+*.orig
+*.tmp
+*.swp
+firebase-debug.log
+crashlytics-build.properties
+
+# Test and lint output
+**/test-results/
+**/test-output/
+**/reports/
+lint/reports/
+
+# Kotlin generated metadata
+*.kotlin_module
+
+# Operating system files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# Jetpack Compose preview cache
+*.preview.cache
