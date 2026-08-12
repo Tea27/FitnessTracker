@@ -66,7 +66,7 @@ The combined repositories provide a local-first flow: cached Room data is used w
 | Dependency injection | Hilt, KSP |
 | Local storage | Room, DataStore |
 | Cloud services | Firebase Authentication, Firebase Realtime Database, Supabase Storage |
-| Networking | Ktor, OkHttp, Retrofit, Kotlin Serialization, Gson |
+| Networking | Ktor, OkHttp,Kotlin Serialization, Gson |
 | Background work | WorkManager, Hilt Worker |
 | Media and motion | Coil, GIF support, Lottie |
 | Location search | Photon API |
