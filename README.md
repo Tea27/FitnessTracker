@@ -69,7 +69,6 @@ The combined repositories provide a local-first flow: cached Room data is used w
 | Background work | WorkManager, Hilt Worker |
 | Media and motion | Coil, GIF support, Lottie |
 | Location search | Photon API |
-| Quality tooling | JUnit, Espresso, Compose UI Test, ktlint |
 
 ## Project Structure
 
